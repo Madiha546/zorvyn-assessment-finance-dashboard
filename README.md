@@ -396,23 +396,6 @@ This project demonstrates:
 
 ---
 
-## 🔮 Future Enhancements
-
-Potential additions for future versions:
-
-- [ ] Backend API integration
-- [ ] Real authentication system
-- [ ] Database persistence (Firebase/MongoDB)
-- [ ] Real-time data updates (WebSocket)
-- [ ] Mobile app (React Native)
-- [ ] Advanced ML predictions
-- [ ] Multi-currency support
-- [ ] Investment tracking
-- [ ] Bill reminders & notifications
-- [ ] Team/household accounts
-
----
-
 ## 📝 Available Scripts
 
 ```bash
