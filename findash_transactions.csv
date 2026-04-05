@@ -1,0 +1,21 @@
+Transaction_ID,Date,Description,Category,Amount,Type,Status,Payment_Method
+TXN-1001,2026-03-01,Monthly Salary,Income,5500.00,Credit,Completed,Direct Deposit
+TXN-1002,2026-03-02,Central Park Lofts,Housing,-1850.00,Debit,Completed,Bank Transfer
+TXN-1003,2026-03-03,Whole Foods Market,Groceries,-142.30,Debit,Completed,Credit Card
+TXN-1004,2026-03-04,Netflix Subscription,Entertainment,-19.99,Debit,Completed,Auto-Pay
+TXN-1005,2026-03-05,Shell Gas Station,Transport,-55.00,Debit,Completed,Credit Card
+TXN-1006,2026-03-07,Freelance UI Design,Income,1200.00,Credit,Completed,PayPal
+TXN-1007,2026-03-08,Apple Store - iCloud,Cloud Services,-9.99,Debit,Completed,Apple Pay
+TXN-1008,2026-03-10,Equinox Gym Membership,Health,-185.00,Debit,Pending,Credit Card
+TXN-1009,2026-03-12,Starbucks Coffee,Food & Drink,-6.75,Debit,Completed,Debit Card
+TXN-1110,2026-03-14,Electric Bill - Utility,Utilities,-95.40,Debit,Completed,Bank Transfer
+TXN-1111,2026-03-15,Amazon - Desk Lamp,Shopping,-45.00,Debit,Completed,Credit Card
+TXN-1112,2026-03-18,Uber Ride,Transport,-24.50,Debit,Completed,Uber Cash
+TXN-1113,2026-03-20,Stock Dividends,Investment,85.25,Credit,Completed,Brokerage
+TXN-1114,2026-03-22,Blue Bottle Coffee,Food & Drink,-5.50,Debit,Completed,Credit Card
+TXN-1115,2026-03-24,Adobe Creative Cloud,Software,-52.99,Debit,Completed,Credit Card
+TXN-1116,2026-03-25,Transfer to Savings,Savings,-500.00,Debit,Completed,Internal Transfer
+TXN-1117,2026-03-27,Dinner at Rosso,Food & Drink,-112.00,Debit,Completed,Credit Card
+TXN-1118,2026-03-28,Gym Supplement Store,Health,-35.00,Debit,Pending,Debit Card
+TXN-1119,2026-03-29,Steam Games,Entertainment,-29.99,Debit,Completed,Credit Card
+TXN-1120,2026-03-30,Internet - Fiber Optic,Utilities,-79.99,Debit,Completed,Auto-Pay

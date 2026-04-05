@@ -1,0 +1,12 @@
+id,date,description,amount,category
+t1,2026-04-05,Spotify,-10.99,Subscriptions
+t2,2026-04-05,Gym Membership,-50.00,Subscriptions
+t3,2026-04-04,Coffee Shop,-4.50,Dining
+t4,2026-04-03,Freelance Payout,850.00,Income
+t5,2026-04-03,Electric Bill,-85.00,Utilities
+t6,2026-04-02,Salary,5000.00,Income
+t7,2026-04-01,Grocery Store,-120.50,Groceries
+t8,2026-03-29,Amazon,-45.90,Shopping
+t9,2026-03-25,Uber,-15.40,Transport
+t10,2026-03-20,Netflix,-15.99,Subscriptions
+t11,2026-03-15,Whole Foods,-95.20,Groceries
